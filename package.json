@@ -1,0 +1,24 @@
+{
+  "name": "treinamento-nttdata-cypress-teste-api-v1",
+  "version": "1.0.0",
+  "description": "Treinamento para QAs - Automação de Testes de API utilizando Cypress - Básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrk-qa/treinamento-nttdata-cypress-teste-api-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrk-qa/treinamento-nttdata-cypress-teste-api-v1/issues"
+  },
+  "homepage": "https://github.com/mrk-qa/treinamento-nttdata-cypress-teste-api-v1#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "cypress-plugin-api": "^2.7.2"
+  }
+}
