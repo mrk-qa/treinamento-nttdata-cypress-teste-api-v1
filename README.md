@@ -31,7 +31,7 @@ Em seguida, execute `npx cypress open` para abrir a interface do Cypress ou exec
 
 ##### 4) Explorando o site [Typeform](https://try.typeform.com/home/)  
 
-##### 5) Documentação da   
+##### 5) Documentação da [API](https://developer.typeform.com/create/)  
 
 ##### 6) Collection no Insomnia  
 
