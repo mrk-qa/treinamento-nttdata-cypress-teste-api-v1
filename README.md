@@ -37,19 +37,20 @@ Em seguida, execute `npx cypress open` para abrir a interface do Cypress ou exec
 
 ##### 7) Hands-on _CRUD - CREATE, READ, UPDATE e DELETE_  
 
-- [ ] [GET] Consulta dos dados do perfil  
-- [ ] [POST] Criando um novo form  
-- [ ] [PATCH] Substituindo título do form  
-- [ ] [GET] Busca por um form  
-- [ ] [DELETE] Deletando o form que foi criado  
+- [x] [GET] Consulta dos dados do perfil  
+- [x] [GET] Consulta dos dados do perfil (SEM TOKEN)  
+- [x] [POST] Criando um novo form  
+- [x] [PATCH] Substituindo um título do form  
+- [x] [GET] Busca por um form específico  
+- [x] [DELETE] Deletando o form que foi criado  
 
 ##### 8) Respondendo as dúvidas  
 
-<!-- <p align="center">Abaixo uma recordação dos participantes do treinamento 💙</p>
-<p align="center">Treinamento realizado em 25 e 26 de Outubro/2022.</p>
+<p align="center">Abaixo uma recordação dos participantes do treinamento 💙</p>
+<p align="center">Treinamento realizado em 20 e 21 de Dezembro/2022.</p>
 
-<div align="center"><img width="600px"  src="https://user-images.githubusercontent.com/102618854/198168272-1e976b57-8f36-4087-a67b-d6f4db5d21b2.jpg">
-</div> -->
+<div align="center"><img width="600px"  src="https://user-images.githubusercontent.com/102618854/209017808-f185acc8-85f3-4ba5-853b-8dd4b1ffbe9f.png">
+</div>
 
 
 ## 🔮 Apoie este projeto  
