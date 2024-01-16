@@ -3,7 +3,7 @@
 
 
 <h1 align="left">
-    <img width="300px" src="https://i.ibb.co/qnhR4sx/2560px-NTT-Data-Logo.png" alt="2560px-NTT-Data-Logo">
+    <img width="300px" src="https://github.com/mrk-qa/treinamento-nttdata-cypress-teste-api-v1/blob/5a84147673db9972f7a8aec927e21c1cd919c22b/assets/ntt_logo.png" alt="2560px-NTT-Data-Logo">
 </h1>
 
 
@@ -49,7 +49,7 @@ Em seguida, execute `npx cypress open` para abrir a interface do Cypress ou exec
 <p align="center">Abaixo uma recordação dos participantes do treinamento 💙</p>
 <p align="center">Treinamento realizado em 20 e 21 de Dezembro/2022.</p>
 
-<div align="center"><img width="600px"  src="https://user-images.githubusercontent.com/102618854/209017808-f185acc8-85f3-4ba5-853b-8dd4b1ffbe9f.png">
+<div align="center"><img width="800px"  src="https://github.com/mrk-qa/treinamento-nttdata-cypress-teste-api-v1/blob/5a84147673db9972f7a8aec927e21c1cd919c22b/assets/treinamento-nttdata-cypress-teste-api-v1.png">
 </div>
 
 
